@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+estou estudando no alura
+estou desenvolvendo uma linguagem javascript
+uso esse espaço para organização e compartilhamneto de projetos
 <!--
 **kurokos000/kurokos000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
